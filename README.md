@@ -1,5 +1,5 @@
 # COVID-19-Surveillance-API
-PHP
+Convert CSV to JSON using PHP
 
 # Source
 https://nssac.bii.virginia.edu/covid-19/dashboard/
